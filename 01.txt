@@ -1,6 +1,17 @@
-├── Requisitos
-├── Documentacao
-├── Diagramas
-├── Casos_de_Teste
-├── Codigo_Fonte
-└── Designs
+Principais Benefícios do Repositório de Artefatos em Nuvem
+Centralização e Organização Eficiente:
+Todos os artefatos (requisitos, documentações, código-fonte, etc.) ficam armazenados num único local, com estrutura organizada, facilitando o acesso, a consulta e a gestão do conhecimento do projeto.
+
+Controle de Versão e Colaboração Segura:
+Versionamento completo e rastreamento de alterações permitem controle rigoroso das mudanças, recuperação de versões anteriores e colaboração segura por meio de Pull Requests e revisões de código.
+
+Conformidade e Governança (ITIL, COBIT e ESG):
+Garantia de conformidade com padrões de governança de TI e ESG, com controle de acesso baseado em funções, auditorias regulares e gestão de mudanças eficiente, reduzindo riscos de segurança e compliance.
+
+
+
+Ao concluir a prática de gerenciamento de artefatos utilizando uma ferramenta de gestão de configuração em nuvem, aprendi a importância de centralizar e organizar documentos e códigos de forma estruturada e segura. Esse processo não só facilita o acesso e a colaboração da equipe, como também garante rastreamento completo das mudanças, promovendo controle de versão e auditoria eficiente.
+
+O impacto dessa prática nas áreas de Estratégia e Governança é significativo, pois contribui para uma tomada de decisão mais informada e alinhada aos objetivos organizacionais. No contexto de ITIL e COBIT, o controle de mudanças e o compliance com padrões de governança são aprimorados, fortalecendo a segurança e a integridade dos artefatos. Além disso, o alinhamento com ESG assegura transparência e responsabilidade social na gestão de recursos digitais.
+
+Na minha profissão, vejo essa abordagem como essencial para melhorar a produtividade, a qualidade do desenvolvimento de software e a conformidade com normas de governança, reduzindo riscos e aumentando a eficiência operacional.
